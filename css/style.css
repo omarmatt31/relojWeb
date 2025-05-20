@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+}
+
+.fondo{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background: #02414f;
+    background: linear-gradient(210deg, rgba(2, 65, 79, 1) 0%, rgba(0, 94, 148, 1) 35%, rgba(0, 54, 66, 1) 100%);
+}
